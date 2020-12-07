@@ -17,5 +17,3 @@ stopWatchResetButton.pack(side = LEFT)
 
 stopWatchCounter = 66600
 stopWatchrunning = False
-
-clockWindow.mainloop()
