@@ -2,7 +2,7 @@
 
 ## To run the program
 * Go to the project directory
-* run command `python main.py or python3 main.py`
+* Run command `python main.py or python3 main.py` from the terminal
 
 ## Time format for timer
 `HH:MM:SS` (hour:min:sec)
