@@ -3,6 +3,7 @@ from tkinter import Frame as F, Label as L, Entry as E, Button as B
 from tkinter.ttk import *
 import datetime
 import platform
+import time
 try:
     import winsound
 except:
